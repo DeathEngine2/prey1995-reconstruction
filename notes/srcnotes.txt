@@ -1,0 +1,18 @@
+core engine tree
+
+D:\SOURCE\PREY\engine.c
+D:\SOURCE\PREY\clip.c
+D:\SOURCE\PREY\input.c
+D:\SOURCE\PREY\loader.c
+D:\SOURCE\PREY\surface.c
+D:\SOURCE\PREY\texture.c
+D:\SOURCE\PREY\preymain.c
+D:\SOURCE\PREY\span.c
+D:\SOURCE\PREY\vector3.c
+D:\SOURCE\PREY\cli.c
+D:\SOURCE\PREY\cli_util.c
+D:\SOURCE\PREY\actor.c
+
+libmact folder contents (headers and compiled libs) taken from an old copy of the EDuke source code
+
+complete function names are present in the binary, will add in separate symbol map maybe?
